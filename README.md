@@ -5,3 +5,5 @@ No curso de CSS Flexbox você irá aprender como criar um layout responsivo no C
 Projeto prático Hotel Paraíso feito em CSS Flexbox pelo site [NODESTUDIO](https://www.nodestudio.com.br/curso/curso-de-flexbox).
 
 ## Link do Projeto: [Hotel Paraíso](https://marcelo-rafael.github.io/hotel-paraiso/)
+
+![Hotel Paraiso](hotel-paraiso.jpg)

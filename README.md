@@ -5,4 +5,4 @@
 
 ## Link do Projeto: [Hotel Paraíso](https://marcelo-rafael.github.io/projeto-hotel-paraiso/)
 
-![Hotel Paraiso](hotel-paraiso.jpg)
+<img src="hotel-paraiso.gif" alt="Hotel Paraiso" width="600"/> 
